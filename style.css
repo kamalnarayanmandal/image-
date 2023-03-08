@@ -1,0 +1,18 @@
+body{
+    background: black;
+    margin: 0;
+}
+.img{
+    background-image: url(IMG_3444\ \(1\).jpg);
+    width: 700px;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0 auto;
+    overflow: hidden;
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-attachment: fixed;
+    background-clip: text;
+    -webkit-text-fill-color: rgba(255, 9, 9, 0);
+}
